@@ -23,7 +23,7 @@ This project is an AI Assistant developed using the ChatGPT API. It enables user
 1. Clone this repository:
 
    ```bash
-   git clone [https://github.com/your-username/chatgpt-ai-assistant.git](https://github.com/abdulbasitha/AI-Assistant.git)https://github.com/abdulbasitha/AI-Assistant.git
+   git clone https://github.com/abdulbasitha/AI-Assistant.git
 
 ## Preview
 <div>
