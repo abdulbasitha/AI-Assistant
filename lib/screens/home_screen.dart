@@ -139,7 +139,7 @@ class _HomeState extends State<Home> {
 
           // Chat bubble
           Visibility(
-            visible: generatedImage == null && lastWords == '' ,
+            visible: generatedImage == null ,
             child: Container(
               padding: const EdgeInsets.symmetric(
                 horizontal: 20,
